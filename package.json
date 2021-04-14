@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "glamor": "^2.20.40",
     "lodash": "^4.17.4",
     "moment": "2.18.1",
     "prop-types": "^15.5.10",
